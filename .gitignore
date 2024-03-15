@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/rating-ds-log.log
+/rating-ds-log.log.2022-09-06.0.gz
+/rating-ds-log.log.2024-03-13.0.gz
+/rating-ds-log.log.2024-03-14.0.gz
